@@ -1,0 +1,8 @@
+.todo-list {
+    list-style:none;
+    padding:0;
+    width: 100%;
+}
+.list-group-item {
+    margin-bottom: 5px;
+}

@@ -1,0 +1,10 @@
+.btn-wrap {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.btn-wrap .btn-active {
+    background-color: steelblue;
+    color:white;
+}

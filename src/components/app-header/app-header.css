@@ -1,0 +1,17 @@
+.app-header {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.app-header h1 {
+    margin:0;
+    color:#363636;
+}
+
+.app-header h2 {
+    margin: 0;
+    font-size: 15px;
+    color:#918b79;
+    padding-top:5px;
+}

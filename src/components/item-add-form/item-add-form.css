@@ -1,0 +1,13 @@
+.item-add-form {
+    margin-top: 10px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.item-add-form input {
+    margin-right: 3px;
+}
+.add-btn {
+    width: 120px
+}
